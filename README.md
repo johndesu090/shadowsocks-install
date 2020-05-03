@@ -21,6 +21,7 @@
   <a><img src="https://img.shields.io/badge/Service-ShadowsocksR-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Shadowsocks%20Go-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Shadowsocks%20libev-green.svg"></a>
+  <a><img src="https://img.shields.io/badge/Service-Shadowsocks%20Python-green.svg"></a>
  </p>
 
 <h3 align="center">Installation</h3>
@@ -34,3 +35,11 @@ chmod +x installss.sh
   ```
 
 </p>
+
+<h3 align="center">Additional Info</h3>
+<p align="center">
+Install Information:
+Shadowsocks Python Config: /etc/shadowsocks-python/config.json
+ShadowsocksR Config: /etc/shadowsocks-r/config.json
+ShadowsocksGo Config: /etc/shadowsocks-go/config.json
+Shadowsocks Libev Config: /etc/shadowsocks-libev/config.json
