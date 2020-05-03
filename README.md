@@ -19,8 +19,8 @@
 <p align="center">
   <a><img src="https://img.shields.io/badge/Service-Shadowsocks-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-ShadowsocksR-green.svg"></a>
-  <a><img src="https://img.shields.io/badge/Service-ShadowsocksGo-green.svg"></a>
-  <a><img src="https://img.shields.io/badge/Service-Shadowsocks-libev-green.svg"></a>
+  <a><img src="https://img.shields.io/badge/Service-Shadowsocks%20Go-green.svg"></a>
+  <a><img src="https://img.shields.io/badge/Service-Shadowsocks%20libev-green.svg"></a>
  </p>
 
 <h3 align="center">Installation</h3>
