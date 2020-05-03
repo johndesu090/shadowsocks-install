@@ -28,7 +28,7 @@
 <p align="center">
   
   ```html
-wget https://raw.githubusercontent.com/johndesu090/shadowsocks-install/master/installssr.sh && chmod +x installssr.sh && ./installssr.sh
+wget https://raw.githubusercontent.com/johndesu090/shadowsocks-install/master/installss.sh && chmod +x installss.sh && ./installss.sh
   ```
 
 </p>
