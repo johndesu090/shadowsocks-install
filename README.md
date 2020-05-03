@@ -1,5 +1,5 @@
 
-<h1 align="center">Shadowsocks Install SCRIPT<img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h1>
+<h1 align="center">Shadowsocks Install SCRIPT<img src="https://img.shields.io/badge/Version-3.0-blue.svg"></h1>
 
 <p align="center">Shadowsocks Install SCRIPT is made by FordSenpai to minimize the time consumed and user involvement in setting up your VPS</p>
 <p align="center">[Donations] GCASH: 09206200840 PAYPAL: johnford090@gmail.com FACEBOOK: John Ford Mangiliman</p>
@@ -28,7 +28,9 @@
 <p align="center">
   
   ```html
-wget https://raw.githubusercontent.com/johndesu090/shadowsocks-install/master/installss.sh && chmod +x installss.sh && ./installss.sh
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/johndesu090/shadowsocks_install/master/installss.sh
+chmod +x installss.sh
+./installss.sh 2>&1 | tee shadowsocks-all.log
   ```
 
 </p>
