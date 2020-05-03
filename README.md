@@ -36,9 +36,8 @@ chmod +x installss.sh
 
 </p>
 
-<h3 align="center">Additional Info</h3>
+<h3 align="center">Additional Info (Install Configs)</h3>
 <p align="center">
-Install Information:
 Shadowsocks Python Config: /etc/shadowsocks-python/config.json
   </p>
 <p align="center">
