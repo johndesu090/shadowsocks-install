@@ -7,13 +7,13 @@
 
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Support-Ubuntu%2014-red.svg"></a>
-  <a><img src="https://img.shields.io/badge/Support-Ubuntu%2016-red.svg"></a>
-  <a><img src="https://img.shields.io/badge/Support-Ubuntu%2018-red.svg"></a>
-  <a><img src="https://img.shields.io/badge/Support-Debian%208-red.svg"></a>
-  <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a>
-  <a><img src="https://img.shields.io/badge/Support-CentOS%206-red.svg"></a>
-  <a><img src="https://img.shields.io/badge/Support-CentOS%207-red.svg"></a>
+  <a><img src="https://img.shields.io/badge/Support-Ubuntu14-red.svg"></a>
+  <a><img src="https://img.shields.io/badge/Support-Ubuntu16-red.svg"></a>
+  <a><img src="https://img.shields.io/badge/Support-Ubuntu18-red.svg"></a>
+  <a><img src="https://img.shields.io/badge/Support-Debian8-red.svg"></a>
+  <a><img src="https://img.shields.io/badge/Support-Debian9-red.svg"></a>
+  <a><img src="https://img.shields.io/badge/Support-CentOS6-red.svg"></a>
+  <a><img src="https://img.shields.io/badge/Support-CentOS7-red.svg"></a>
 </p>
 <h3 align="center">Services</h3>
 <p align="center">
