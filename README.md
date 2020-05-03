@@ -40,6 +40,13 @@ chmod +x installss.sh
 <p align="center">
 Install Information:
 Shadowsocks Python Config: /etc/shadowsocks-python/config.json
+  </p>
+<p align="center">
 ShadowsocksR Config: /etc/shadowsocks-r/config.json
+  </p>
+<p align="center">
 ShadowsocksGo Config: /etc/shadowsocks-go/config.json
+  </p>
+<p align="center">
 Shadowsocks Libev Config: /etc/shadowsocks-libev/config.json
+  </p>
