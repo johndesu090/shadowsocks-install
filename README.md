@@ -29,7 +29,7 @@
 <p align="center">
   
   ```html
-wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/johndesu090/shadowsocks_install/master/installss.sh
+wget --no-check-certificate -O installss.sh https://raw.githubusercontent.com/johndesu090/shadowsocks_install/master/installss.sh
 chmod +x installss.sh
 ./installss.sh 2>&1 | tee shadowsocks-all.log
   ```
